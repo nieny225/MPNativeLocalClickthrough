@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPNativeLocalClickthrough.iml" filepath="$PROJECT_DIR$/MPNativeLocalClickthrough.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk-banner/mopub-sdk-banner.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk-banner/mopub-sdk-banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk-base/mopub-sdk-base.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk-base/mopub-sdk-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk-interstitial/mopub-sdk-interstitial.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk-interstitial/mopub-sdk-interstitial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk-native-static/mopub-sdk-native-static.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk-native-static/mopub-sdk-native-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk-native-video/mopub-sdk-native-video.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk-native-video/mopub-sdk-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mopub-sdk/mopub-sdk-rewardedvideo/mopub-sdk-rewardedvideo.iml" filepath="$PROJECT_DIR$/mopub-sdk/mopub-sdk-rewardedvideo/mopub-sdk-rewardedvideo.iml" />
+    </modules>
+  </component>
+</project>
